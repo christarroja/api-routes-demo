@@ -10,4 +10,4 @@ export default function handler(req, res) {
 }
 
 // implement Clerk 
-// https://clerk.com/blog/next13-api-routes-1
+// https://clerk.com/blog/next13-api-routes-2
